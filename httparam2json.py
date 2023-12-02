@@ -33,7 +33,7 @@ def main() -> None:
     elif args.json_query:
         argument = args.json_query
     else:
-        print("Use: python httparam2json.py -jq 'fname=firstname&lname=lastname'")
+        print("Usage: python httparam2json.py -jq 'fname=firstname&lname=lastname'")
         return
 
 

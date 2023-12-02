@@ -1,8 +1,5 @@
 # httparam2json
-
-#### Install:
-
-
+Process URL parameters and convert them to JSON format.
 
 #### Usage:
 
